@@ -34,12 +34,17 @@ The program will display a list of matching artist names retrieved from the Musi
 
   ```
 import requests
+
 from requests.exceptions import RequestException
+
 from json import JSONDecodeError
 
 def search_artist(artist_name):
+
     # Ensure the input is not just empty whitespace
+    
     if not artist_name.strip():
+    
         print("Error: Artist name cannot be empty.")
         return
 
