@@ -30,6 +30,10 @@ The program will display a list of matching artist names retrieved from the Musi
 
 * Response Format: JSON
 
+# IMAGE
+![Screenshot 2025-04-25 003814](https://github.com/user-attachments/assets/47c942f6-2fed-467c-9c06-af999a4286d7)
+
+
   # Code Snippet
 
   ```
